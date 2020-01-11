@@ -75,3 +75,6 @@ function random() {
 // process.argv
 // >process
 // > process.stdout.write("hello\n")
+
+// Javascript is based on ECMAScript which gets updates annually
+// Babel is a Javascript compiler and supports more recent features
