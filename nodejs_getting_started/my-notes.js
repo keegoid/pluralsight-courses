@@ -78,3 +78,17 @@ function random() {
 
 // Javascript is based on ECMAScript which gets updates annually
 // Babel is a Javascript compiler and supports more recent features
+
+// npm i - this will install all package dependencies from a package.json file with versions
+// specified in package-lock.json
+
+// node i -D will install development dependencies (--save-dev)
+// node i --production - will not install devDependencies
+
+// npm version numbers
+// 4.2.0
+// major.minor.patch
+// breaking changes . backward compatible . bug fixes
+// ~1.2.3 - an update can install the most recent patch version i.e. 1.2.4
+// ^1.2.3 - an update can install the most recent minor version i.e. 1.3.0
+// semver.npmjs.com
